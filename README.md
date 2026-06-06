@@ -1,8 +1,17 @@
 # Hi there, I'm Sri Keshav Nanduri! 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sri-kesav-sandeep-nanduri-35428b176" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:srikeshav2502@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/sri-kesav-sandeep-nanduri-35428b176" target="_blank">
+    <img src="https://img.shields.io/badge/-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" align="middle" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sri-kesav-sandeep-nanduri-35428b176" target="_blank">Sri Keshav Sandeep Nanduri</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:srikeshav2502@gmail.com">
+    <img src="https://img.shields.io/badge/-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" align="middle" />
+  </a>
+  &nbsp;
+  <a href="mailto:srikeshav2502@gmail.com">srikeshav2502@gmail.com</a>
 </p>
 
 ## 🚀 About Me
@@ -35,6 +44,18 @@ An enterprise-grade Retrieval-Augmented Generation (RAG) application designed fo
 
 ---
 
+## 🌟 Featured Project
+
+### 🧪 [DeepEval Metrics Explanation & Implementation](https://github.com/SriKeshavNanduri/DeepEval_Metrics)
+A comprehensive repository detailing and implementing LLM evaluation metrics using the DeepEval framework. This project demonstrates how to run unit tests and quantitatively benchmark LLM outputs for correctness, safety, and performance.
+
+- **Evaluation Framework:** DeepEval (Confident AI)
+- **Implemented Metrics:** Faithfulness, Answer Relevancy, ContextualPrecisionMetric
+- **Testing Methodology:** Automated LLM-as-a-judge pipelines and unit test suites
+- **Use Cases:** Evaluating Retrieval-Augmented Generation (RAG) pipelines, detecting hallucinations, and setting safety/toxicity guardrails.
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 ### 🧠 Artificial Intelligence & Machine Learning
@@ -48,10 +69,3 @@ An enterprise-grade Retrieval-Augmented Generation (RAG) application designed fo
 - **Tools & Platforms:** Git, Docker, Azure, MLflow
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriKeshavNanduri&show_icons=true&theme=radical" alt="Sri Keshav's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriKeshavNanduri&layout=compact&theme=radical" alt="Top Langs" height="150" />
-</p>
