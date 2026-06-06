@@ -1,8 +1,8 @@
 # Hi there, I'm Sri Keshav Nanduri! 👋
 
 <p align="left">
-  <a href="https://linkedin.com/in/srikeshavnanduri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/sri-kesav-sandeep-nanduri-35428b176" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:srikeshav2502@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ## 🚀 About Me
